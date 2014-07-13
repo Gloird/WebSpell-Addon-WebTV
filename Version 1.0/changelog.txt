@@ -1,0 +1,17 @@
+/************************************************************************************/
+/*	Auteur : Dupuis ' Gloird ' Nicolas															
+/*	Email : gloird@gmail.fr															
+/*	Site : Gloird.fr																
+/*	ChangeLog : Addon-WebTV														
+/*	Version : 1.0 - Modifier : 07/07/2014											
+/*	* = Correction , Information													
+/*	+ = Ajout																		
+/*	- = Suppression																	
+/*	== = Version 																
+/************************************************************************************/
+
+== Version 1.0
+
+ + Ajout de l'API dailymotion
+ + Ajout de l'API Twitch
+ + Ajout du pannel Administrateur
